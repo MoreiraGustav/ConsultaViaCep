@@ -1,6 +1,6 @@
 # Consulta de Endereço ViaCEP com React e Next.js
 
-Este projeto é um exemplo simples de uma aplicação React com Next.js que permite aos usuários consultar informações de endereço usando a API ViaCEP.
+Este projeto é um exemplo simples de uma aplicação React com Next.js e TypeScript que permite aos usuários consultar informações de endereço usando a API ViaCEP.
 
 ## Funcionalidades
 
